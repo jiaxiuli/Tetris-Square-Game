@@ -1,3 +1,7 @@
+/*
+2020-8
+Jiaxiu Li
+*/ 
 var btn = document.getElementById("btn");
 var op_left = document.getElementById("left");
 var op_right = document.getElementById("right");
