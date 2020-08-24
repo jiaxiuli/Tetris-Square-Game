@@ -1,4 +1,6 @@
 # squareGame
+2020-8
+Jiaxiu Li
 ## Game panel
 The game panel is actually a two-dimension array, each cell in the array stands for one cell on the interface. If the value of the cell is 0, it means that this space is vacant, and if the cell is 1, it means that this cube is occupied, and nothing should be placed on it.
 ![image](https://github.com/jiaxiuli/Tetris-Square-Game/blob/master/img/panel.png)
