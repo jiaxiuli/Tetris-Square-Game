@@ -1,7 +1,6 @@
 /*
 2020-8
 Jiaxiu Li
-github test
 */ 
 var btn = document.getElementById("btn");
 var op_left = document.getElementById("left");
