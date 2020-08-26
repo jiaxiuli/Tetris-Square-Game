@@ -1,7 +1,9 @@
 /*
-2020-8
-Jiaxiu Li
-*/ 
+ * @Author: Jiaxiu Li 
+ * @Date: 2020-08-25 23:00:43 
+ * @Last Modified by:   Jiaxiu Li 
+ * @Last Modified time: 2020-08-25 23:00:43 
+ */
 var btn = document.getElementById("btn");
 var op_left = document.getElementById("left");
 var op_right = document.getElementById("right");
